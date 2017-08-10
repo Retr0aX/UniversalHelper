@@ -1,5 +1,11 @@
-# UniversalHelper is ALL-FREE
+# English
+  UniversalHelper is ALL-FREE
 
+# French 
+  UniversalHelper est entièrement gratuit
+  
+  
+  
 I need translater for this :
 "UniversalHelper est entièrement gratuit" - Alredy Translate by Retr0aX and not verified (Please verify)
 "Le code source sera disponible lors du téléversement du script"
